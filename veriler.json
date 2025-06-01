@@ -1,0 +1,62 @@
+[
+    {
+        "isim": "Misafir",
+        "soyisim": "",
+        "email": "",
+        "oylamalar": [
+            {
+                "oylama_konusu": "Okulumuzun yemekhane hizmetinden memnun musunuz?",
+                "puan": "5"
+            },
+            {
+                "oylama_konusu": "Okulumuzun sosyal alanı yeterli mi?",
+                "puan": "5"
+            },
+            {
+                "oylama_konusu": "Okulumuzun hijyen durumundan memnun musunuz?",
+                "puan": "5"
+            }
+        ],
+        "oneriler": "a"
+    },
+    {
+        "isim": "Misafir",
+        "soyisim": "",
+        "email": "",
+        "oylamalar": [
+            {
+                "oylama_konusu": "Okulumuzun yemekhane hizmetinden memnun musunuz?",
+                "puan": "1"
+            },
+            {
+                "oylama_konusu": "Okulumuzun sosyal alanı yeterli mi?",
+                "puan": "1"
+            },
+            {
+                "oylama_konusu": "Okulumuzun hijyen durumundan memnun musunuz?",
+                "puan": "1"
+            }
+        ],
+        "oneriler": ""
+    },
+    {
+        "isim": "ela",
+        "soyisim": "bayrak",
+        "email": "ela@gmail.com",
+        "oylamalar": [
+            {
+                "oylama_konusu": "Okulumuzun yemekhane hizmetinden memnun musunuz?",
+                "puan": "3"
+            },
+            {
+                "oylama_konusu": "Okulumuzun sosyal alanı yeterli mi?",
+                "puan": "3"
+            },
+            {
+                "oylama_konusu": "Okulumuzun hijyen durumundan memnun musunuz?",
+                "puan": "3"
+            }
+        ],
+        "oneriler": ""
+    }
+]
